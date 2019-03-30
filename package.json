@@ -1,0 +1,22 @@
+{
+  "name": "defender-game",
+  "version": "1.0.0",
+  "description": "Browser based game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/extrin/netology-ajs-lection_2-task_3.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "extrin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/extrin/netology-ajs-lection_2-task_3/issues"
+  },
+  "homepage": "https://github.com/extrin/netology-ajs-lection_2-task_3#readme"
+}
